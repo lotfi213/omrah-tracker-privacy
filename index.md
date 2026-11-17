@@ -11,7 +11,7 @@ My Omrah (Android package: com.lotfi.myomrah) is developed by Lotfi Boucherit. T
 
 ## Information stored on your device
 
-My Omrah stores your Tawaf and Saee counts, session dates, lap start and finish times, lap durations, and saved Omrah history locally in the app's private storage. It uses these records only to show your progress and history. Timing also uses the device clock and a device boot counter to calculate durations; this information is not transmitted.
+My Omrah stores your Tawaf and Saee counts, session dates, lap start and finish times, lap durations, and saved Omrah history locally in the app's private storage. It uses these records only to show your progress and history. Your chosen app language is also saved locally on your device. Timing also uses the device clock and a device boot counter to calculate durations; this information is not transmitted.
 
 ## No collection or sharing by the developer
 
